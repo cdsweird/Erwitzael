@@ -1,5 +1,5 @@
 [
 null,
 {"id":1,"battlerName":"Killian et Charlotte","characterIndex":0,"characterName":"Killian et Charlotte","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"KillianEtCharlotte","traits":[],"initialLevel":1,"maxLevel":99,"name":"Killian","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Juste Charlotte","characterIndex":0,"characterName":"Nature","classId":3,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"KillianEtCharlotte","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lyssa","nickname":"","note":"","profile":""}
+{"id":2,"battlerName":"Juste Charlotte","characterIndex":1,"characterName":"Killian et Charlotte","classId":3,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"KillianEtCharlotte","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lyssa","nickname":"","note":"","profile":""}
 ]
