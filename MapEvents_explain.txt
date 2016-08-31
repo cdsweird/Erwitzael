@@ -1,0 +1,6 @@
+-------------------------------------MapEvents-------------------------------------
+Explication des cases d'évènement
+-----------------------------------------------------------------------------------
+
+1 : s'assoir sur tabouret, à mettre sur une tile avec un objet sur lequel on ne peut pas marcher (rendre cet objet non-marchable dessus)
+-> si le tabouret a un de ses côtés bloqués, il faut enlever dans la page 2 la condition correspondant à la direction du bloquage (ou les)
